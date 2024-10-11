@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Azael 👋</h1> 
-<img src="azael morell.png">
+<img src="Azael Morell.png">
 <!--
 **azaelmm/azaelmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
