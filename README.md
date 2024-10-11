@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Azael 👋</h1> 
-<img src="Sin título.png" paddindLeft="80px">
+<img src="Sin título.png" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);>
 <!--
 **azaelmm/azaelmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
