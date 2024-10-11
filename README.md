@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I am Azael 👋</h1> 
-<div style="position: relative; height: 500; width: 500;">
-    <img src="Sin título.png" alt="Descripción de la imagen" style="position: absolute; top: 250; left: 250;">
-</div>
+<img src="Sin título.png" alt="Descripción de la imagen" style="display: block; margin: 0 auto;">
+
 
 <!--
 **azaelmm/azaelmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
