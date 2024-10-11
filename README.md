@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Azael 👋</h1> 
-<img src="Sin título.png" alt="Descripción de la imagen" style="display: block; margin: 0 auto;">
+<img src="Sin título.png" alt="Descripción de la imagen" width="300">
 
 
 <!--
