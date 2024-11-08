@@ -74,7 +74,7 @@
 
 <p>
    <h3> 🤝🏻 Connect with me </h3>
-  <a href="azaelmm@hotmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="azaelmm@hotmail.com?subject=&body="><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 </p>
 
 ---
