@@ -74,7 +74,7 @@
 
 <p>
    <h3> 🤝🏻 Connect with me </h3>
-  <a href="mailto:hi@ferdiozer.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="mailto:azaelmm@hotmail.com?subject=&body="><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 </p>
 
 ---
