@@ -57,7 +57,8 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+<h1 align="left"><img src="https://i.imgur.com/YCw47Dm.gif">
+</h1>
 
 <div>
 <a href="https://github.com/azaelmm">
