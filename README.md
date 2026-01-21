@@ -49,22 +49,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-<h1 align="left"><img src="https://i.imgur.com/YCw47Dm.gif">
-</h1>
-
-<div>
-<a href="https://github.com/azaelmm">
-      <img alt="Azael's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=azaelmm&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
-    </a>
-  <a href="https://github.com/azaelmm">
-<img src="https://github-readme-stats.vercel.app/api?username=azaelmm&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/>
-    </a>
-</div>
-
----
-
 <p>
    <h3> 🤝🏻 Connect with me </h3>
   <a href="mailto:azaelmm@hotmail.com?subject=&body="><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
