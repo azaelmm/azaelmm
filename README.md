@@ -7,9 +7,8 @@
 
 <p> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> ABOUT ME</p>
 
-- 👨‍💻 I’m currently working on backend development technologies like Java, Kotlin, etc.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 📚 I’m currently learning everything about Deep Learning and Data 😅
+- 💪🏼 Future Goals: Learn more technologies - Never stop learning and creating new ideas.
 - ⚡ Fun fact: I love to play football and go gym 🎱.
 
 ---
