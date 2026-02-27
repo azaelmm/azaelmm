@@ -55,10 +55,9 @@
 ### [PingBond](https://github.com/azaelmm/PINGBOND)
 <p>It's my final higher education project, a minimalist social network inspired by Instagram.</p>
 
-<p>
-   <h3> 🤝🏻 Connect with me </h3>
-  <a href="mailto:azaelmm@hotmail.com?subject=&body="><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-</p>
-
+---
+<h1 align="left">🤝🏻 Connect with me</h1>
+<a href="mailto:azaelmm@hotmail.com?subject=&body="><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/azaelmm)
 ---
 ![](https://komarev.com/ghpvc/?username=azaelmm)
