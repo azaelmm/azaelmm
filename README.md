@@ -5,9 +5,9 @@
 
 <p> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> ABOUT ME</p>
 
-- 📚 I’m currently learning everything about Deep Learning and Data 😅
+- 📚 I’m currently learning everything about Deep Learning and Data.
 - 💪🏼 Future Goals: Learn more technologies - Never stop learning and creating new ideas.
-- ⚡ Hobbies: I love to play football and go gym 🎱.
+- ⚡ Hobbies: I love to play football and go gym.
 
 ---
 
