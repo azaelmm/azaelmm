@@ -53,7 +53,7 @@
 <h1 align="left">🌟Featured projects</h1>
 
 ### [PingBond](https://github.com/azaelmm/PINGBOND)
-It's my final higher education project, a minimalist social network inspired by Instagram.
+<p>It's my final higher education project, a minimalist social network inspired by Instagram.</p>
 ---
 
 <p>
