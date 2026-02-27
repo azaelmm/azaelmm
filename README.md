@@ -3,13 +3,11 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
 
-<img align="right" alt="GIF" height="160px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRsbTFqa2FyandzNG5mdzZvMTR0MnUyMnN4NnQ1anIzdGwxZjdjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp" />
-
 <p> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> ABOUT ME</p>
 
 - 📚 I’m currently learning everything about Deep Learning and Data 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop learning and creating new ideas.
-- ⚡ Fun fact: I love to play football and go gym 🎱.
+- ⚡ Hobbies: I love to play football and go gym 🎱.
 
 ---
 
