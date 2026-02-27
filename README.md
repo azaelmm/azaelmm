@@ -54,7 +54,6 @@
 
 ### [PingBond](https://github.com/azaelmm/PINGBOND)
 <p>It's my final higher education project, a minimalist social network inspired by Instagram.</p>
----
 
 <p>
    <h3> 🤝🏻 Connect with me </h3>
